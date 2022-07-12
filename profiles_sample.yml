@@ -1,0 +1,13 @@
+dbt-snowflake:
+  outputs:
+    dev:
+      account: <account>.us-east-2.aws
+      database: ANALYTICS_DEV
+      password: <senha>
+      role: accountadmin
+      schema: lbrandi
+      threads: 4
+      type: snowflake
+      user: lbrandi
+      warehouse: compute_wh
+  target: dev
