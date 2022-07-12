@@ -1,15 +1,27 @@
-Welcome to your new dbt project!
+# Treinamento de dbt com Snowflake
 
-### Using the starter project
+<img src="Documents/Images/dbt-banner.png" alt="dbt Banner" width="800"/>
 
-Try running the following commands:
-- dbt run
-- dbt test
+[Módulo 01](documents/modulo-01.md)
 
+Introdução ao dbt e setup inicial
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+[Módulo 02](documents/modulo-02.md)
+
+Contextualização do ambiente de trabalho, tipos de materialização, testes e documentação.
+
+[Módulo 03](documents/modulo-03.md)
+
+Primeiros modelos, da source para a mart table.
+
+[Módulo 04](documents/modulo-04.md)
+
+Macros, testes, documentação robusta e seeds.
+
+[Módulo 05](documents/modulo-05.md)
+
+Modelos incrementais, Snapshots e deployment.
+
+## Recursos adicionais
+
+Conteúdo gratuito em inglês da própria dbt labs: [dbt Learning](https://courses.getdbt.com/collections)

@@ -1,4 +1,4 @@
-# Tópicos do treinamento 2022-07-12
+# Treinamento dbt - Módulo 02
 
 - Revisão de acessos, setup local e serviços em nuvem
 
