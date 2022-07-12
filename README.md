@@ -1,6 +1,6 @@
 # Treinamento de dbt com Snowflake
 
-![Criando novo Repositório](/documents/Images/dbt-banner.png)
+![Criando novo Repositório](/documents/images/dbt-banner.png)
 
 [Módulo 01](/documents/modulo-01.md)
 

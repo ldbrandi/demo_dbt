@@ -89,7 +89,7 @@ Uma vez que estes softwares estejam instalados, podemos realizar a configuraçã
 
 Para começar, vamos criar um novo repositório no Github, com nome `demo_dbt` e o restante das configurações default.
 
-![Criando novo Repositório](/Documents/Images/new-repo.png)
+![Criando novo Repositório](/documents/images/new-repo.png)
 
 Agora podemos clonar o repositório vazio em nosso ambiente local. Uma recomendação é criar uma pasta para os projetos, o que facilita a organização. Nos exemplos a seguir, o repo será clonado no seguinte path: `C:\Users\lucas\Projects\demo_dbt`
 
