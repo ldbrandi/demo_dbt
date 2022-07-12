@@ -137,10 +137,10 @@ cd C:\Users\<username>\.dbt
 code profiles.yml
 ```
 
-Ele deve ser parecido com [profiles_sample.yml](profiles_sample.yml).
+Ele deve ser parecido com [profiles_sample.yml](../profiles_sample.yml).
 
 ---
 
 Com o projeto devidamente inicializado e o perfil de acesso criado corretamente, navegue de volta para a pasta do projeto e execute o comando `dbt debug`, que validará todos os requisitos básicos para o funcionamento do projeto. O output deve ser semelhante a este:
 
-![dbt debug](/Documents/Images/dbt-debug.png)
+![dbt debug](/documents/images/dbt-debug.png)
