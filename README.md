@@ -1,6 +1,6 @@
 # Treinamento de dbt com Snowflake
 
-<img src="Documents/Images/dbt-banner.png" alt="dbt Banner" width="800"/>
+![Criando novo Repositório](/Documents/Images/dbt-banner.png)
 
 [Módulo 01](documents/modulo-01.md)
 
