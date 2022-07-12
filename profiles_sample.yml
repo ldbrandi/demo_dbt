@@ -1,7 +1,7 @@
 dbt-snowflake:
   outputs:
     dev:
-      account: <account>.us-east-2.aws
+      account: <account>.us-east-2
       database: ANALYTICS_DEV
       password: <senha>
       role: accountadmin
