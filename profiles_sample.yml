@@ -1,13 +1,16 @@
-dbt-snowflake:
+config:
+  send_anonymous_usage_stats: False
+
+demo_dbt:
   outputs:
     dev:
-      account: <account>.us-east-2
+      account: <account>.<region>
       database: ANALYTICS_DEV
       password: <senha>
       role: accountadmin
-      schema: lbrandi
+      schema: <snowflake_username>
       threads: 4
       type: snowflake
-      user: lbrandi
+      user: <snowflake_username>
       warehouse: compute_wh
   target: dev
