@@ -8,7 +8,4 @@
 - staging customer e nation
 - int customer_nation
 - core dim_customer
-- exposure
-- teste singular
 - execução do projeto, analise de logs
-- se sobrar tempo, configurar dbt cloud
